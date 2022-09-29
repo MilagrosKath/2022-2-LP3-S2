@@ -2,7 +2,7 @@
 		<HEAD>
 		</HEAD>
 		<BODY>
-				BIENVENIDOS...
+				BIENVENIDOS A LP3
 		</BODY>
 
 </HTML>
